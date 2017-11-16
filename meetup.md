@@ -24,3 +24,8 @@ Probablisty programming lang
 
 https://github.com/pymc-devs/pymc3
 http://docs.pymc.io/notebooks/getting_started
+
+
+# What happens if you dont have a likelyhood function?
+
+lol nothing is a gaussian
